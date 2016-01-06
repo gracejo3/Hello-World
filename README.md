@@ -6,4 +6,5 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/gracejo3/Hello-World.git
 git push -u origin master
-hows it going everyone!!!!!
+
+hello
